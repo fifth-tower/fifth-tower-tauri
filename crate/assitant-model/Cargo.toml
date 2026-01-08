@@ -1,0 +1,12 @@
+[package]
+name = "assitant-model"
+version.workspace = true
+edition.workspace = true
+
+[dependencies]
+serde.workspace = true
+tracing.workspace = true
+flow-model.workspace = true
+
+[dev-dependencies]
+tracing-subscriber.workspace = true

@@ -1,0 +1,6 @@
+/dist/
+/target/
+/Cargo.lock
+styles.css
+node_modules
+resource

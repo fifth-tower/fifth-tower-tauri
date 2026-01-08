@@ -1,0 +1,21 @@
+[package]
+name = "flow-model-upgrade"
+version.workspace = true
+edition.workspace = true
+
+[dependencies]
+serde.workspace = true
+tracing.workspace = true
+rand.workspace = true
+flow-model.workspace = true
+flow.workspace = true
+fs_extra.workspace = true
+tracing-subscriber.workspace = true
+
+tower = { workspace = true, features = ["common-rs", "web-model"] }
+
+codee = { workspace = true, features = ["bincode_serde", "base64"] }
+base64.workspace = true
+
+[dev-dependencies]
+dirs.workspace = true

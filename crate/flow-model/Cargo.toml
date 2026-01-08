@@ -1,0 +1,9 @@
+[package]
+name = "flow-model"
+version.workspace = true
+edition.workspace = true
+
+[dependencies]
+serde.workspace = true
+tracing.workspace = true
+tower.workspace = true

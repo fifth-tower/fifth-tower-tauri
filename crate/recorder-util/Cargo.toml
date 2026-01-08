@@ -1,0 +1,8 @@
+[package]
+name = "recorder-util"
+version.workspace = true
+edition.workspace = true
+
+[dependencies]
+tao.workspace = true
+tracing.workspace = true
