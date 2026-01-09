@@ -42,7 +42,13 @@
 	 - tauri对文件、鼠标、键盘、网络等交互操作进行封装，对网页提供通用接口，提供PC版打包机制
      - enigo负责模拟鼠标、键盘的前台操作
      - windows负责模拟鼠标、键盘的后台操作	  
-
+   
+   效果：
+   ![图片1](sreen/record.png?raw=true)
+   ![图片2](sreen/edit.png?raw=true)
+   ![图片3](sreen/test.png?raw=true)
+   ![图片4](sreen/run.png?raw=true)
+   
 ## Recommended IDE Setup
 
 [VS Code](https://code.visualstudio.com/) + [Tauri](https://marketplace.visualstudio.com/items?itemName=tauri-apps.tauri-vscode) + [rust-analyzer](https://marketplace.visualstudio.com/items?itemName=rust-lang.rust-analyzer).
