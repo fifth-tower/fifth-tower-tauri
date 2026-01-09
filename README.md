@@ -44,10 +44,10 @@
      - windows负责模拟鼠标、键盘的后台操作	  
    
    效果：
-   ![图片1](sreen/record.png?raw=true)
-   ![图片2](sreen/edit.png?raw=true)
-   ![图片3](sreen/test.png?raw=true)
-   ![图片4](sreen/run.png?raw=true)
+   ![图片1](screen/record.png?raw=true)
+   ![图片2](screen/edit.png?raw=true)
+   ![图片3](screen/test.png?raw=true)
+   ![图片4](screen/run.png?raw=true)
    
 ## Recommended IDE Setup
 
