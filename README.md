@@ -35,13 +35,13 @@
        - 收藏、评分、下载 
      - 执行
        - 支持多开，支持后台运行 
-	   
-	技术架构： leptos+tauri+enigo+windows
+
+   技术架构： leptos+tauri+enigo+windows
 	
-	  - leptos实现图形化界面
-	  - tauri对文件、鼠标、键盘、网络等交互操作进行封装，对网页提供通用接口，提供PC版打包机制
-      - enigo负责模拟鼠标、键盘的前台操作
-      - windows负责模拟鼠标、键盘的后台操作	  
+	 - leptos实现图形化界面
+	 - tauri对文件、鼠标、键盘、网络等交互操作进行封装，对网页提供通用接口，提供PC版打包机制
+     - enigo负责模拟鼠标、键盘的前台操作
+     - windows负责模拟鼠标、键盘的后台操作	  
 
 ## Recommended IDE Setup
 
